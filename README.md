@@ -86,7 +86,7 @@ Lead-Loom/
 ## Contributing
 **Open a Pull Request**.
 
-## 👥 Contributors
+## Contributors
 
 * **[Kashika221](https://github.com/Kashika221)**: Project Lead and Developer.
 * **[Krish Arya](https://github.com/Krish-Arya)**: Contributed to the development of `app.py`.
